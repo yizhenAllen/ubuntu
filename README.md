@@ -1,2 +1,2 @@
 # ubuntu
-my ubuntu docker file
+my ubuntu Dockerfile
